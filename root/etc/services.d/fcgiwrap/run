@@ -1,0 +1,2 @@
+#!/usr/bin/with-contenv bash
+exec /usr/bin/fcgiwrap -s tcp:127.0.0.1:9001

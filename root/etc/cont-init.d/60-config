@@ -1,0 +1,5 @@
+#!/usr/bin/with-contenv bash
+
+[[ ! -f /config/cgitrc ]] && cp /defaults/cgitrc /config/cgitrc
+
+chown -R abc:abc /config/cgitrc

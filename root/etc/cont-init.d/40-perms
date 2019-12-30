@@ -1,0 +1,6 @@
+#!/usr/bin/with-contenv bash
+
+# permissions
+chown abc:abc /config /data
+chown -R abc:abc /var/lib/nginx
+chown -R fcgiwrap:abc /run/fcgiwrap/
