@@ -1,6 +1,6 @@
 # Docker cgit
 
-[![CircleCI](https://circleci.com/gh/RealOrangeOne/docker-cgit.svg?style=svg)](https://circleci.com/gh/RealOrangeOne/docker-cgit)
+[![CI](https://github.com/RealOrangeOne/docker-cgit/actions/workflows/ci.yml/badge.svg)](https://github.com/RealOrangeOne/docker-cgit/actions/workflows/ci.yml)
 
 A docker container for [cgit](https://git.zx2c4.com/cgit/about/).
 
